@@ -1,4 +1,4 @@
-### Dan Raskin
+### ⍄⍄⎲⎲ Dan Raskin ⎳⎳⍄⍄
 On this corner of the internet, I'm a Full-Stack Software Engineer. Currently in the mode of learning and exploring. Let's see what accumulates here, shall we?
 
 ◁◁◁ Interests: ▷▷▷
