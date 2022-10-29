@@ -3,12 +3,12 @@ On this corner of the internet, I'm a Full-Stack Software Engineer. Currently in
 
 ◁◁◁ Interests: ▷▷▷
   - electronic music
-  - sci-fiction
+  - science fiction-type literature
   - ecology
   - history
  
 ◁◁◁ Aspirations: ▷▷▷
-  - Acquiring "computer skills."
+  - Acquiring and developing 'computer skills.'
   - Decoupling technology from mass-engineered rapid dopamine cycling experiments and the general commodification of life. Is is the possible?
 
 ### Portfolio
