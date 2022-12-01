@@ -21,6 +21,7 @@ Here are some past projects
 [Citizen Kanine Scheduling and Invoincing App](https://github.com/danraskin/citizen-kanine-demo)
 [check it out!](http://citizen-kanine-demo.herokuapp.com)
 >>username: admin
+>>
 >>password: admin
 - App built in a two-week sprint with a team of five developers: [Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman).
 
