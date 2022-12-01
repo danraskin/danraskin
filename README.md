@@ -9,7 +9,7 @@ On this corner of the internet, I'm a Full-Stack Software Engineer. Currently in
  
 ◁◁◁ Aspirations: ▷▷▷
   - Acquiring and developing 'computer skills.'
-  - Decoupling technology from mass-engineered rapid dopamine cycling experiments and the general commodification of life. Is is the possible?
+  - Decoupling technology from mass-engineered rapid dopamine cycling experiments and the general commodification of life. Is this possible?
 
 ## Portfolio
 <!--
