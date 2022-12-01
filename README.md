@@ -19,6 +19,7 @@ Current project: Scheduling and invoicing app for dog-walking company
 Here are some past projects
 
 [Citizen Kanine Scheduling and Invoincing App](https://github.com/danraskin/citizen-kanine-demo)
+
 [check it out!](http://citizen-kanine-demo.herokuapp.com)
 >>username: admin
 >>
