@@ -27,13 +27,13 @@ Here are some past projects
 - App built in a two-week sprint with a team of five developers: [Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman).
 
 ### [React Drum Machine](https://github.com/danraskin/rhythm-sequencer-solo-project)
-- first foray into Tone.js. Not hosted yet.
+- Two week sprint. First foray into Tone.js. Not hosted yet.
 
 ### [Movie Gallery App](https://github.com/danraskin/weekend-movies-sagas)
 - weekend sprint. first use of react-sagas.
 
 ### [Simple feedbak form](https://github.com/danraskin/weekend-redux-feedback-loop)
-- weekend spring. First encounter with react-redux.
+- weekend sprint. First encounter with react-redux.
 
 #### Technologies
 JS, HTML, CSS, REACT, REDUX, SAGA, AXIOS, NODE.JS, EXPRESS, POSTGRESQL, TONE.JS.
