@@ -26,15 +26,15 @@ Here are some past projects
 >password: admin
 
 ### [React Drum Machine](https://github.com/danraskin/rhythm-sequencer-solo-project)
-- Two week sprint. First foray into Tone.js. Not hosted yet.
+- Two week sprint. First foray into Tone.js.
+- [CHECK IT OUT!](https://rhythm-sequencer-solo-project.herokuapp.com/)
 
 ### [Movie Gallery App](https://github.com/danraskin/weekend-movies-sagas)
 - weekend sprint. first use of react-sagas.
 
 ### [Simple feedback form](https://github.com/danraskin/weekend-redux-feedback-loop)
 - weekend sprint. First encounter with react-redux.
-- [Check it out!](https://weekend-redux-feedback-form.herokuapp.com/)
-
+<!-- - [Check it out!](https://weekend-redux-feedback-form.herokuapp.com/) -->
 
 ### [To-do list](https://github.com/danraskin/weekend-to-do-list)
 - weekend sprint. To-do list built with JQuery. First use of SQL/database.
