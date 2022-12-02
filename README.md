@@ -33,6 +33,7 @@ Here are some past projects
 - weekend sprint. first use of react-sagas.
 
 ### [Simple feedback form](https://github.com/danraskin/weekend-redux-feedback-loop)
+[Check it out!](https://weekend-redux-feedback-form.herokuapp.com/)
 - weekend sprint. First encounter with react-redux.
 
 ### [To-do list](https://github.com/danraskin/weekend-to-do-list)
