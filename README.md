@@ -32,8 +32,12 @@ Here are some past projects
 ### [Movie Gallery App](https://github.com/danraskin/weekend-movies-sagas)
 - weekend sprint. first use of react-sagas.
 
-### [Simple feedbak form](https://github.com/danraskin/weekend-redux-feedback-loop)
+### [Simple feedback form](https://github.com/danraskin/weekend-redux-feedback-loop)
 - weekend sprint. First encounter with react-redux.
+
+### [To-do list](https://github.com/danraskin/weekend-to-do-list)
+[Check it out!](https://weekend-sql-todo-list.herokuapp.com/)
+- weekend sprint. To-do list built with JQuery. First use of SQL/database.
 
 #### Technologies
 JS, HTML, CSS, REACT, REDUX, SAGA, AXIOS, NODE.JS, EXPRESS, POSTGRESQL, TONE.JS.
