@@ -1,5 +1,5 @@
 ## ⍄⍄⎲⎲ Dan Raskin ⎳⎳⍄⍄
-On this corner of the internet, I'm a Fullstack Software Engineer. Currently in the mode of learning and exploring. This repo/portfolio will remain a work in progress as I 
+On this corner of the internet, I'm a Fullstack Software Engineer. Currently in the mode of learning and exploring. This repo/portfolio will remain a work in progress as I...
 
 ◁◁◁ Interests: ▷▷▷
   - electronic music
