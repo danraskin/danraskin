@@ -13,10 +13,13 @@ On this corner of the internet, I'm a Fullstack Software Engineer. Currently in 
   - Decoupling digital technologies from mass-engineered rapid dopamine cycling experiments and the general commodification of life. Is this possible?
 
 ## Portfolio
-<!--
-Current project: Scheduling and invoicing app for dog-walking company
-- very practical!
--->
+
+Current project
+
+### [Fullstack IoT app demo](http://github.com/danrskin/sci-fair-scum)
+- Collaborative art project. 
+- New methods: Raspberry Pi microcontroller, photosensors, Python, and Bill Orcutt's incredible web audio library for experimental sounds [cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
+
 Here are some past projects
 
 ### [Citizen Kanine Scheduling and Invoicing App](https://github.com/danraskin/citizen-kanine-demo)
