@@ -20,6 +20,8 @@ Current project
 - Collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r)
 - New methods: Raspberry Pi microcontroller, photosensors, Python, and Bill Orcutt's incredible web audio library for experimental sounds [cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 
+[Check it out!](https://sci-fair-scum.herokuapp.com/)
+
 Here are some past projects
 
 ### [Citizen Kanine Scheduling and Invoicing App](https://github.com/danraskin/citizen-kanine-demo)
