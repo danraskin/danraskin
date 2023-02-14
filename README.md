@@ -16,8 +16,8 @@ On this corner of the internet, I'm a Fullstack Software Engineer. Currently in 
 
 Current project
 
-### [Fullstack IoT app demo](http://github.com/danrskin/sci-fair-scum)
-- Collaborative art project. 
+### [Interactive "light-to-sound" web audio synth](http://github.com/danraskin/sci-fair-scum)
+- Collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r)
 - New methods: Raspberry Pi microcontroller, photosensors, Python, and Bill Orcutt's incredible web audio library for experimental sounds [cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
 
 Here are some past projects
