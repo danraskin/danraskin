@@ -1,16 +1,13 @@
 ## ⍄⍄⎲⎲ Dan Raskin ⎳⎳⍄⍄
-On this corner of the internet, I'm a Fullstack Software Engineer. Currently in the mode of learning and exploring. This repo/portfolio will remain a work in progress as I...
+On this corner of the internet, I'm a Fullstack Software Engineer. Currently in the mode of learning and exploring. This repo/portfolio will remain a work in progress! 
 
 ◁◁◁ Interests: ▷▷▷
   - electronic music
-  - science fiction-type literature
-  - ecology
-  - "history"
+  - making technology that works for people, not 'consumers'
  
 ◁◁◁ Aspirations: ▷▷▷
-  - Leveling up!
-  - IoT ? ? ?
-  - Decoupling digital technologies from mass-engineered rapid dopamine cycling experiments and the general commodification of life. Is this possible?
+  - leveling up! Currently working on basic Python.
+  - IoT ? ? ? very little progress on this front yet, but hardware rules!
 
 ## Portfolio
 
