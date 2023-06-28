@@ -1,17 +1,24 @@
 ## ⍄⍄⎲⎲ Dan Raskin ⎳⎳⍄⍄
-On this corner of the internet, I'm a Fullstack Software Engineer. Currently in the mode of learning and exploring. This repo/portfolio will remain a work in progress! 
-
-◁◁◁ Interests: ▷▷▷
-  - electronic music
-  - making technology that works for people, not 'consumers'
- 
-◁◁◁ Aspirations: ▷▷▷
-  - leveling up! Currently working on basic Python.
-  - IoT ? ? ? very little progress on this front yet, but hardware rules!
+On this corner of the internet, I'm a Fullstack Software Engineer. I like 
 
 ## Portfolio
 
-Current project
+Current projects
+
+### [Citizen Kanine Scheduling and Invoicing App](https://github.com/danraskin/citizenkanineapp-demo)
+- Custom React web app for a Minneapolis-based dog-walking company [Citizen Kanine](https://thecitizenkanine.com/
+- App is in production and continuing feature development
+- Employees track dog-walks using mobile view
+- Admin can schedule clients services and employees
+- Admin can view client service history (which dogs were walked on which days)
+- App syncs to Citizen Kanine's Quickbooks account via the Quickbooks API
+- App creates formatted Quickbook invoices at the click of a button
+
+- Prototype built in a three-week sprint with a team of four other developers: [Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman).
+[check it out!](http://citizen-kanine-demo.herokuapp.com)
+>username: admin
+>
+>password: admin
 
 ### [Interactive "light-to-sound" web audio synth](http://github.com/danraskin/sci-fair-scum)
 - Collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r)
@@ -20,13 +27,6 @@ Current project
 [Check it out!](https://sci-fair-scum.herokuapp.com/)
 
 Here are some past projects
-
-### [Citizen Kanine Scheduling and Invoicing App](https://github.com/danraskin/citizenkanineapp-demo)
-- App built in a two-week sprint with a team of four other developers: [Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman).
-[check it out!](http://citizen-kanine-demo.herokuapp.com)
->username: admin
->
->password: admin
 
 ### [React Drum Machine](https://github.com/danraskin/rhythm-sequencer-solo-project)
 - Two week sprint. First foray into Tone.js web audio library
@@ -44,7 +44,7 @@ Here are some past projects
 - [Check it out!](https://weekend-sql-todo-list.herokuapp.com/)
 
 #### Technologies
-JS, HTML, CSS, REACT, REDUX, SAGA, AXIOS, NODE.JS, EXPRESS, POSTGRESQL, TONE.JS.
+JS, HTML, CSS, REACT, NODE.JS, EXPRESS, NEXT.JS, POSTGRESQL, PYTHON
 
 ### Get in touch
 * Email: danieltraskin@gmail.com
