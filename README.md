@@ -9,7 +9,7 @@ Current projects
 - Custom React web app for a Minneapolis-based dog-walking company [Citizen Kanine](https://thecitizenkanine.com/)
 - App is in production and continuing feature development
 - Employees track dog-walks using mobile view
-- Admin can schedule clients services and employees
+- Admin can schedule clients and employees
 - Admin can view client service history (which dogs were walked on which days)
 - App syncs to Citizen Kanine's Quickbooks account via the Quickbooks API
 - App creates formatted Quickbook invoices at the click of a button
@@ -17,7 +17,7 @@ Current projects
 - Prototype built in a three-week sprint with a team of four other developers: [Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman).
   
 [check it out!](http://citizen-kanine-demo.herokuapp.com)
-Be sure to view both the mobile and desktop view for employee and adminitrator functions.
+Be sure to view both the mobile and desktop view for employee and admin functions.
 
 >username: admin
 >
