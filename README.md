@@ -21,11 +21,12 @@ Key Features:
 
 Citizen Kanine currently relies on the production app for its daily operations. Its completed version was developed by myself (Dan Raskin) and Sam Freeman. I am continuing to develop its features in collaboration with the company and its employees. The original prototype was built in a three-week sprint with a team of four other developers: Sarah Preston, Blake Smith, Yanira Hagstrom and Sam Freeman as a part of Prime Digital Academy
 
-### [Interactive "light-to-sound" web audio synth](http://github.com/danraskin/sci-fair-scum)
-- Collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r)
-- New methods: Raspberry Pi microcontroller, photosensors, Python, and Bill Orcutt's incredible web audio library for experimental sounds [cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
+### [Interactive "light-to-sound" web audio synth](https://sci-fair-scum.herokuapp.com/)
 
-[Check it out!](https://sci-fair-scum.herokuapp.com/)
+A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users control sound usng a simple browser interface. An Adafruit Flora Color Sensor (TCS34725) sends RBG color data to hosted node.js server via python script on RaspberryPi. Users navigate to browser app, which receives live RBG color data. Users control sound by selecting a color, which is converted into sound using an experimental web audio library [i dropped my phone the screen cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked) by developer Bill Orcutt.
+
+- For instructions, check out the repo's [README](https://github.com/danraskin/sci-fair-scum/edit/main/README.md).
+
 
 Here are some past projects
 
