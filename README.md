@@ -15,10 +15,14 @@ Current projects
 - App creates formatted Quickbook invoices at the click of a button
 
 - Prototype built in a three-week sprint with a team of four other developers: [Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman).
+  
 [check it out!](http://citizen-kanine-demo.herokuapp.com)
+Be sure to view both the mobile and desktop view for employee and adminitrator functions.
+
 >username: admin
 >
 >password: admin
+
 
 ### [Interactive "light-to-sound" web audio synth](http://github.com/danraskin/sci-fair-scum)
 - Collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r)
