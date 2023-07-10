@@ -6,7 +6,7 @@ On this corner of the internet, I'm a Fullstack Software Engineer.
 Current projects
 
 ### [Citizen Kanine Scheduling and Invoicing App](https://github.com/danraskin/citizenkanineapp-demo)
-- Custom React web app for a Minneapolis-based dog-walking company [Citizen Kanine](https://thecitizenkanine.com/
+- Custom React web app for a Minneapolis-based dog-walking company [Citizen Kanine](https://thecitizenkanine.com/)
 - App is in production and continuing feature development
 - Employees track dog-walks using mobile view
 - Admin can schedule clients services and employees
