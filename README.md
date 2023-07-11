@@ -5,7 +5,7 @@ On this corner of the internet, I'm a Fullstack Software Engineer.
 
 ### [Citizen Kanine Scheduling and Invoicing App](https://herokuapp.com/citizen-kanine-demo)
 
-- For instructions on how to explore, see the repo's [README](https://github.com/danraskin/citizenkanineapp-demo/tree/main/readme)
+- For instructions on how to explore, see the repo's [README](https://github.com/danraskin/citizenkanineapp-demo/tree/main#readme)
 
 Citizen Kanine is a dog-walking business based in Minneapolis. Each morning, 'Pack Leaders' pick up clients' dogs in along designated routes vans. On a typical day, the business walks 36+ dogs in small groups around Lake Harriet.
 
@@ -25,7 +25,7 @@ Citizen Kanine currently relies on the production app for its daily operations. 
 
 A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users control sound usng a simple browser interface. An Adafruit Flora Color Sensor (TCS34725) sends RBG color data to hosted node.js server via python script on RaspberryPi. Users navigate to browser app, which receives live RBG color data. Users control sound by selecting a color, which is converted into sound using an experimental web audio library [i dropped my phone the screen cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked) by developer Bill Orcutt.
 
-- For instructions, check out the repo's [README](https://github.com/danraskin/sci-fair-scum/edit/main/README.md).
+- For instructions, check out the repo's [README](https://github.com/danraskin/sci-fair-scum/tree/main#README.md).
 
 
 Here are some past projects
