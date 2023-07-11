@@ -19,7 +19,7 @@ Key Features:
 - App creates formatted Quickbook invoices at the click of a button
 - Admin can view client history and submit changes to client schedules
 
-Citizen Kanine currently relies on the production app for its daily operations. Its completed version was developed by myself (Dan Raskin) and Sam Freeman. I am continuing to develop its features in collaboration with the company and its employees. The original prototype was built in a three-week sprint with a team of four other developers: Sarah Preston, Blake Smith, Yanira Hagstrom and Sam Freeman as a part of Prime Digital Academy
+Citizen Kanine currently relies on the production app for its daily operations. Its completed version was developed by myself (Dan Raskin) and [Sam Freeman](https://github.com/sam-c-freeman). I am continuing to develop its features in collaboration with the company and its employees. The original prototype was built in a three-week sprint with a team of four other developers:[Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman) as a part of [Prime Digital Academy](www.primeacademy.io).
 
 ### [Interactive "light-to-sound" web audio synth](https://sci-fair-scum.herokuapp.com/)
 
