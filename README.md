@@ -25,7 +25,7 @@ Citizen Kanine currently relies on the production app for its daily operations. 
 
 A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users control sound usng a simple browser interface. An Adafruit Flora Color Sensor (TCS34725) sends RBG color data to hosted node.js server via python script on RaspberryPi. Users navigate to browser app, which receives live RBG color data. Users control sound by selecting a color, which is converted into sound using an experimental web audio library [i dropped my phone the screen cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked) by developer Bill Orcutt.
 
-- For instructions, check out the repo's [README](https://github.com/danraskin/sci-fair-scum/tree/main#README.md).
+- For instructions, check out the repo's [README](https://github.com/danraskin/sci-fair-scum/tree/main#readme).
 
 
 Here are some past projects
