@@ -5,7 +5,8 @@ On this corner of the internet, I'm a Fullstack Software Engineer.
 
 ### [Citizen Kanine Scheduling and Invoicing App](https://herokuapp.com/citizen-kanine-demo)
 
-- For instructions on how to explore, see project [README](https://github.com/danraskin/citizenkanineapp-demo/tree/main#readme)
+- For instructions on how to explore, see demo project [README](https://github.com/danraskin/citizenkanineapp-demo/tree/main#readme)
+- To see most up-to-date code, see production app [project repo](https://github.com/citizenkanineapp/citizenkanineapp)
 
 Citizen Kanine is a dog-walking business based in Minneapolis. Each morning, 'Pack Leaders' drive pick-up vans scoop up clients' dogs along designated routes. On a typical day, the business walks 36+ dogs in small groups around Lake Harriet.
 
