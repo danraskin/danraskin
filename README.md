@@ -7,7 +7,7 @@ On this corner of the internet, I'm a Fullstack Software Engineer.
 
 - For instructions on how to explore, see project [README](https://github.com/danraskin/citizenkanineapp-demo/tree/main#readme)
 
-Citizen Kanine is a dog-walking business based in Minneapolis. Each morning, 'Pack Leaders' pick up clients' dogs in along designated routes vans. On a typical day, the business walks 36+ dogs in small groups around Lake Harriet.
+Citizen Kanine is a dog-walking business based in Minneapolis. Each morning, 'Pack Leaders' drive pick-up vans scoop up clients' dogs along designated routes. On a typical day, the business walks 36+ dogs in small groups around Lake Harriet.
 
 This custom React web-application integrates the company's scheduling, invoicing, record-keeping, and communications functions. The app contains two separate workflows: an admin dashboard and a mobile view for employees. The admin portal provides a centralized location for our client to manage employee schedules, client information and scheduling and invoicing. The mobile view allows employees to manage the distribution of dogs along pick-up routes on a daily basis, as well efficiently checking in which dogs were walked each day.
 
