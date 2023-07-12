@@ -1,5 +1,6 @@
 ## ⍄⍄⎲⎲ Dan Raskin ⎳⎳⍄⍄
-On this corner of the internet, I'm a Fullstack Software Engineer.
+
+Hi! I'm a Fullstack Software Engineer.
 
 ## Portfolio
 
