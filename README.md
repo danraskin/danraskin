@@ -18,11 +18,15 @@ Key Features:
 - App creates formatted Quickbook invoices at the click of a button
 - Admin can view client history and submit changes to client schedules
 
+<hr />
+
 ### [Interactive "light-to-sound" web audio synth](https://sci-fair-scum.herokuapp.com/)
 
 - For details and instructions, see project [README](https://github.com/danraskin/sci-fair-scum/tree/main#readme)
 
 A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users control sound usng a simple browser interface. An Adafruit Flora Color Sensor (TCS34725) sends RBG color data to hosted node.js server via python script on RaspberryPi. Users navigate to browser app, which receives live RBG color data. Users control sound by selecting a color, which is converted into sound using an experimental web audio library [i dropped my phone the screen cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked) by developer Bill Orcutt.
+
+<hr />
 
 ### [React Drum Machine](https://rhythm-sequencer-solo-project.herokuapp.com)
 
@@ -33,6 +37,8 @@ A full-stack React drum machine/rhythm sequencer built in a 2-week sprint.
 - Registered users can save, access and edit stored beat sequences.
 - Users can select from 4 sound libraries.
 - Users can select sequence length.
+
+<hr />
 
 #### Technologies
 JS, HTML, CSS, REACT, NODE.JS, EXPRESS, NEXT.JS, POSTGRESQL, PYTHON
