@@ -8,9 +8,7 @@ On this corner of the internet, I'm a Fullstack Software Engineer.
 - For instructions on how to explore, see demo project [README](https://github.com/danraskin/citizenkanineapp-demo/tree/main#readme)
 - To see most up-to-date code, see production app [project repo](https://github.com/citizenkanineapp/citizenkanineapp)
 
-Citizen Kanine is a dog-walking business based in Minneapolis. Each morning, 'Pack Leaders' drive pick-up vans scoop up clients' dogs along designated routes. On a typical day, the business walks 36+ dogs in small groups around Lake Harriet.
-
-This custom React web-application integrates the company's scheduling, invoicing, record-keeping, and communications functions. The app contains two separate workflows: an admin dashboard and a mobile view for employees. The admin portal provides a centralized location for our client to manage employee schedules, client information and scheduling and invoicing. The mobile view allows employees to manage the distribution of dogs along pick-up routes on a daily basis, as well efficiently checking in which dogs were walked each day.
+Citizen Kanine is a dog-walking business based in Minneapolis. This custom React web-application integrates the company's scheduling, invoicing, record-keeping, and communications functions. The app contains two separate workflows: an admin dashboard and a mobile view for employees.
 
 Key Features:
 
@@ -19,8 +17,6 @@ Key Features:
 - App syncs client data with Citizen Kanine's Quickbooks account via the Quickbooks API
 - App creates formatted Quickbook invoices at the click of a button
 - Admin can view client history and submit changes to client schedules
-
-Citizen Kanine currently relies on the production app for its daily operations. Its completed version was developed by myself (Dan Raskin) and [Sam Freeman](https://github.com/sam-c-freeman). I am continuing to develop its features in collaboration with the company and its employees. The original prototype was built in a three-week sprint with a team of four other developers:[Sarah Preston](https://github.com/seprest1), [Blake Smith](https://github.com/blakesmithmn), [Yanira Hagstrom](https://github.com/YaniraHagstrom) and [Sam Freeman](https://github.com/sam-c-freeman) as a part of [Prime Digital Academy](www.primeacademy.io).
 
 ### [Interactive "light-to-sound" web audio synth](https://sci-fair-scum.herokuapp.com/)
 
@@ -37,20 +33,6 @@ A full-stack React drum machine/rhythm sequencer built in a 2-week sprint.
 - Registered users can save, access and edit stored beat sequences.
 - Users can select from 4 sound libraries.
 - Users can select sequence length.
-
-
-Here are some past projects
-
-### [Movie Gallery App](https://github.com/danraskin/weekend-movies-sagas)
-- weekend sprint. first use of react-sagas.
-
-### [Simple feedback form](https://github.com/danraskin/weekend-redux-feedback-loop)
-- weekend sprint. First encounter with react-redux.
-<!-- - [Check it out!](https://weekend-redux-feedback-form.herokuapp.com/) -->
-
-### [To-do list](https://github.com/danraskin/weekend-to-do-list)
-- weekend sprint. To-do list built with JQuery. First use of SQL/database.
-- [Check it out!](https://weekend-sql-todo-list.herokuapp.com/)
 
 #### Technologies
 JS, HTML, CSS, REACT, NODE.JS, EXPRESS, NEXT.JS, POSTGRESQL, PYTHON
