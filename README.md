@@ -25,8 +25,7 @@ Key Features:
 
 - For details and instructions, see project [README](https://github.com/danraskin/sci-fair-scum/tree/main#readme)
 
-A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users control sound usng a simple browser interface. An Adafruit Flora Color Sensor (TCS34725) sends RBG color data to hosted node.js server via python script on RaspberryPi. Users navigate to browser app, which receives live RBG color data. Users control sound by selecting a color, which is converted into sound using an experimental web audio library [i dropped my phone the screen cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked) by developer Bill Orcutt.
-
+A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users control a simple browser interface to convert RGB color data into electronic music. A light sensor attached to a Raspberry Pi sends RGB color data to the cloud. Mobile users control the browser synthesizer by selecting constantly changing color data.
 <hr />
 
 ### [React Drum Machine](https://rhythm-sequencer-solo-project.herokuapp.com)
