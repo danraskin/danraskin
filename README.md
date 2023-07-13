@@ -41,7 +41,7 @@ A full-stack React drum machine/rhythm sequencer built in a 2-week sprint.
 <hr />
 
 #### Technologies
-JS, HTML, CSS, REACT, NODE.JS, EXPRESS, NEXT.JS, POSTGRESQL, PYTHON
+JS, HTML, CSS, REACT, NODE.JS, POSTGRESQL, EXPRESS.JS, NEXT.JS, OAuth.20, PYTHON
 
 ### Get in touch
 * Email: danieltraskin@gmail.com
