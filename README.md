@@ -25,7 +25,7 @@ Key Features:
 
 - For details and instructions, see project [README](https://github.com/danraskin/sci-fair-scum/tree/main#readme)
 
-A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users navigate a simple browser interface to convert RGB color data into electronic music. A light sensor attached to a Raspberry Pi sends RGB color data to the cloud. Mobile users control the browser synthesizer by selecting constantly changing color data.
+A collaborative IoT art project built with [Haley Ryan](https://github.com/haley-r). Users navigate a simple browser interface to convert RGB color data into electronic music. A light sensor attached to a Raspberry Pi sends RGB color data to the cloud. Node.js server utilizes Server-Sent Events to forward color data to clients. Mobile users control the browser synthesizer by selecting constantly changing color data.
 <hr />
 
 ### [React Drum Machine](https://rhythm-sequencer-solo-project.herokuapp.com)
