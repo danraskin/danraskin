@@ -1,9 +1,8 @@
 ## ⍄⍄⎲⎲ Dan Raskin ⎳⎳⍄⍄
 
-Hi! I'm a Fullstack Software Engineer. I really like what I do.
+Hi! I'm a Fullstack Software Engineer. I really like what I do. Check out my portfolio [here](https://danraskin-portfolio.vercel.app) or continue reading.
 
 ## Portfolio
-- [Portfolio site available here](https://danraskin-portfolio.vercel.app)
 
 ### [Citizen Kanine Scheduling and Invoicing App](https://herokuapp.com/citizen-kanine-demo)
 
